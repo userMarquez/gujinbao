@@ -7,5 +7,6 @@ public class gittest {
         System.out.println("gujinbao");
         System.out.println("gujinbao3");
         System.out.println("gujinbao2");
+        System.out.println("gujinbaoawdadhiawldawulidg");
     }
 }
