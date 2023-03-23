@@ -5,5 +5,6 @@ public class gittest {
         System.out.println("holle git");
         System.out.println("holle git");
         System.out.println("gujinbao");
+        System.out.println("gujinbao2");
     }
 }
